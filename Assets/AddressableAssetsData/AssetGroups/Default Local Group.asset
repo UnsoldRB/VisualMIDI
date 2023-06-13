@@ -16,15 +16,13 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 1fca79c5045dee14da48f63380550cdf
-  m_SerializeEntries:
-  - m_GUID: 7fba36119fdad0a4eaa824ea2a8887cf
-    m_Address: doremi
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bcb49152a54178c49b99e1296b9f59b4, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 2a3db2661d0f0de4183fa10898b6d921, type: 2}
     - {fileID: 11400000, guid: dd353fc24daeb704793245aa3635fbfb, type: 2}
+  m_FolderEntryCache: []
+  m_AssetCollectionEntryCache: []
+  <FlaggedDuringContentUpdateRestriction>k__BackingField: 0
